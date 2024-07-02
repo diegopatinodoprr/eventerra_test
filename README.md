@@ -1,6 +1,6 @@
 # NgStackLess
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.1.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.2.
 
 ## Development server
 
@@ -35,4 +35,3 @@ Run `npm install --save-dev angular-cli-ghpages` to install github pages
 Deploy :
 Run `ng build --prod --base-href="https://leandredev.github.io/eventerra/"` to build the project.
 Run `npx ngh --dir=dist` to deploy the project at the base url above.
-
