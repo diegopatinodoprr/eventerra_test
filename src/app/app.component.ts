@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'ng-stack-less';
+
+  constructor() {
+    console.log("test")
+  }
 }
